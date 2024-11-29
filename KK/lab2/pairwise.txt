@@ -1,0 +1,23 @@
+Font: Times New Roman, Kunstler Script, Lucida Console
+Size: 1, 20, 52.5, 4000
+Style: Usual, Italic, Bold, Bold italic
+Color: Black, Red, Green
+Underline: No, Single, Double, Dotted, Wavy
+Underline color: No, Black, Red, Green
+Strikethrough: Yes, No
+Double strikethrough: Yes, No
+Superscript: Yes, No
+Subscript: Yes, No
+Shift: -100, -1, 0, 1, 100
+Small caps: Yes, No
+All caps: Yes, No
+Align height: Yes, No
+
+IF [Underline] = "No" THEN [Underline color] = "No";
+IF [Underline color] = "No" THEN [Underline] = "No";
+IF [Strikethrough] = "Yes" THEN [Double strikethrough] = "No";
+IF [Superscript] = "Yes" THEN [Subscript] = "No";
+IF [Small caps] = "Yes" THEN [All caps] = "No";
+IF [Shift] in {1, 100} THEN [Superscript] = "Yes";
+IF [Shift] in {-1, -100} THEN [Subscript] = "Yes";
+IF [Shift] = 0 THEN [Superscript] = "No" AND [Subscript] = "No";		

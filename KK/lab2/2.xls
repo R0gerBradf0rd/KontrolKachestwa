@@ -1,0 +1,31 @@
+Font	Size	Style	Color	Underline	Underline color	Strikethrough	Double strikethrough	Superscript	Subscript	Shift	Small caps	All caps	Align height
+Kunstler Script	4000	Bold	Red	No	No	No	No	No	Yes	-100	Yes	No	No
+Lucida Console	1	Bold italic	Black	Dotted	Green	No	Yes	Yes	No	100	No	Yes	Yes
+Times New Roman	52.5	Usual	Green	Single	Red	Yes	No	Yes	No	1	No	Yes	No
+Times New Roman	20	Italic	Green	No	No	No	Yes	No	Yes	-1	No	No	Yes
+Lucida Console	52.5	Italic	Black	Double	Black	Yes	No	No	No	0	Yes	No	Yes
+Kunstler Script	20	Bold	Red	Double	Black	No	Yes	Yes	No	1	No	Yes	No
+Lucida Console	4000	Usual	Red	Wavy	Red	No	Yes	No	No	0	No	Yes	No
+Kunstler Script	1	Bold italic	Black	Double	Green	Yes	No	No	Yes	-1	No	Yes	No
+Kunstler Script	52.5	Bold italic	Green	Wavy	Red	No	Yes	No	Yes	-1	Yes	No	Yes
+Times New Roman	4000	Usual	Green	Double	Black	No	Yes	No	Yes	-100	No	Yes	Yes
+Times New Roman	1	Italic	Red	Wavy	Green	Yes	No	Yes	No	1	Yes	No	Yes
+Lucida Console	20	Usual	Black	No	No	Yes	No	Yes	No	100	No	Yes	No
+Times New Roman	4000	Bold	Black	Dotted	Red	Yes	No	Yes	No	1	Yes	No	No
+Lucida Console	20	Bold	Black	Single	Green	No	Yes	No	Yes	-100	Yes	No	Yes
+Kunstler Script	1	Usual	Green	Dotted	Green	No	Yes	No	No	0	Yes	No	No
+Kunstler Script	4000	Bold italic	Red	Single	Black	No	Yes	Yes	No	100	Yes	No	No
+Times New Roman	20	Bold italic	Red	Dotted	Red	No	Yes	No	Yes	-100	Yes	No	No
+Kunstler Script	1	Italic	Green	Single	Red	Yes	No	No	No	0	No	Yes	No
+Lucida Console	52.5	Bold	Red	Wavy	Black	Yes	No	No	Yes	-1	No	Yes	Yes
+Times New Roman	52.5	Italic	Black	Wavy	Green	Yes	No	No	Yes	-100	No	Yes	Yes
+Lucida Console	1	Bold	Green	Single	Black	Yes	No	No	Yes	-1	No	No	No
+Times New Roman	52.5	Bold	Green	Double	Red	Yes	No	Yes	No	100	No	No	Yes
+Lucida Console	1	Usual	Green	No	No	No	No	No	Yes	-1	Yes	No	No
+Lucida Console	52.5	Italic	Green	Dotted	Black	No	No	Yes	No	100	No	Yes	No
+Lucida Console	52.5	Bold italic	Green	No	No	Yes	No	Yes	No	1	No	Yes	Yes
+Times New Roman	4000	Italic	Red	Wavy	Green	Yes	No	Yes	No	100	No	No	No
+Times New Roman	1	Usual	Red	Double	Red	Yes	No	No	Yes	-100	No	Yes	No
+Times New Roman	4000	Usual	Red	Dotted	Red	Yes	No	No	Yes	-1	No	Yes	No
+Times New Roman	20	Bold italic	Green	No	No	No	Yes	No	No	0	No	Yes	Yes
+Kunstler Script	20	Bold	Black	Wavy	Green	No	Yes	No	No	0	No	Yes	No

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "OXHpXiEZ+EA9ioN6CYl39Gd8DeyVDnYyOY3JSgBn2cdjNqefeb6IV6ujUWBuzdn2AtIPPr/XfKqTrlp1Ibx5ng==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Светлана\\Desktop\\у4ёба\\KK\\lw1\\testTriangle (1).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Светлана\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Светлана\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Светлана\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Светлана\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\Светлана\\Desktop\\у4ёба\\KK\\Triangle\\Triangle.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\Светлана\\Desktop\\у4ёба\\KK\\Triangle\\Triangle.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
